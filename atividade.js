@@ -8,9 +8,7 @@ const livros = require('./biblioteca');
 // e retorne um novo array com todos os livros desse gênero.
 // ------------------------------------------------------------------------
 
-function encontrarLivrosPorGenero(genero) {
-  // Sua solução aqui
-}
+// Sua vez
 
 // Teste da Atividade 1
 console.log('--- Atividade 1: Livros de Ficção Científica (Função Tradicional) ---');
@@ -24,9 +22,9 @@ console.log('--- Atividade 1: Livros de Ficção Científica (Função Tradicion
 // Faça a mesma função da Atividade 1, mas agora usando Arrow Function.
 // ------------------------------------------------------------------------
 
-const encontrarLivrosPorGeneroArrow = (genero) => {
-  // Sua solução aqui
-};
+
+// Sua vez
+
 
 // Teste da Atividade 2
 console.log('\n--- Atividade 2: Livros de Distopia (Arrow Function) ---');
@@ -41,9 +39,9 @@ console.log('\n--- Atividade 2: Livros de Distopia (Arrow Function) ---');
 // de todos os livros da biblioteca.
 // ------------------------------------------------------------------------
 
-const obterApenasTitulos = () => {
-  // Sua solução aqui
-};
+
+// Sua vez
+
 
 // Teste da Atividade 3
 console.log('\n--- Atividade 3: Lista de todos os títulos ---');
@@ -60,14 +58,15 @@ console.log('\n--- Atividade 3: Lista de todos os títulos ---');
 // Dica: você precisará encadear (usar um após o outro) os métodos filter.
 // ------------------------------------------------------------------------
 
-const livrosDeAutorAposAno = (autor, ano) => {
-  // Sua solução aqui
-};
+
+// Sua vez
+
 
 // Teste da Atividade 4
 console.log('\n--- Atividade 4: Livros de J.R.R. Tolkien publicados após 1950 ---');
 // const livrosTolkienPos1950 = livrosDeAutorAposAno('J.R.R. Tolkien', 1950);
 // console.log(livrosTolkienPos1950);
+
 
 
 // ------------------------------------------------------------------------
@@ -82,11 +81,12 @@ console.log('\n--- Atividade 4: Livros de J.R.R. Tolkien publicados após 1950 -
 // de cada objeto livro diretamente no parâmetro da função do .map().
 // ------------------------------------------------------------------------
 
-const criarCartoesDeLivros = () => {
-    // Sua solução aqui
-  };
+
+
+
+// Sua vez
   
-  // Teste da Atividade 5
-  console.log('\n--- Atividade 5: Cartões de Apresentação dos Livros ---');
-  // const cartoes = criarCartoesDeLivros();
-  // console.log(cartoes);
+// Teste da Atividade 5
+console.log('\n--- Atividade 5: Cartões de Apresentação dos Livros ---');
+// const cartoes = criarCartoesDeLivros();
+// console.log(cartoes);
