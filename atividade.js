@@ -91,7 +91,7 @@ const livrosDeAutorAposAno = (autor, ano) => {
 //        return livro.autor === autor && livro.anoPublicacao > ano;
 //    })
 //})
-
+// 
 
 // Teste da Atividade 4
 console.log('\n--- Atividade 4: Livros de J.R.R. Tolkien publicados após 1950 ---');
